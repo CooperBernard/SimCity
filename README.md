@@ -1,6 +1,3 @@
-# SimCity
-This is a project I made for my term final in Data Structures &amp; Algorithms
-
 To compile this program on a linux command line, cd into a directory with all of the source code files (main.cpp, Cell.h, Cell.cpp) and Makefile, and run the command "make"
 This will produce an executable called "main"
 On GNU/Linux, simply run the command "./main" to run the program
